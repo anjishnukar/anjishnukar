@@ -1,7 +1,9 @@
 <h1 align="center">hello there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> i'm anjishnu kar</h1>
 
-<h3 align="center">EEE Student at NIT Durgapur</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> EEE Student at NIT Durgapur</h3>
 <p align="center">Silicon Engineering | VLSI Enthusiast | Parallel and High Performance Computing | Fullstack Developer</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 ---
 
@@ -76,4 +78,14 @@ welcome to my github. i'm a hardware enthusiast working on creative and practica
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
 </picture></a> &nbsp;
 
-## Get in Touch
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> Get in Touch
+<p><a target="_blank" href="https://www.linkedin.com/in/anjishnukar" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="mailto:anjishnukar02@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D44638" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjishnukar&" alt="anjishnukar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjishnukar&show_icons=true&locale=en&layout=compact" alt="anjishnukar" /></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
