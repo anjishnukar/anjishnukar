@@ -1,35 +1,34 @@
-<h1 align="center">Hello there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> I'm Anjishnu Kar</h1>
+<h1 align="center">hello there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> i'm anjishnu kar</h1>
 
 <h3 align="center">EEE Student at NIT Durgapur</h3>
 <p align="center">Silicon Engineering | VLSI Enthusiast | Parallel and High Performance Computing | Fullstack Developer</p>
 
 ---
 
-Welcome to my GitHub portfolio. I'm a hardware enthusiast working on creative and practical projects across multiple areas.
+welcome to my github. i'm a hardware enthusiast working on creative and practical projects in the intersection of hardware and software.
 
 ## About Me
 
-- 📍 I'm from West Bengal, India
-- 📧 Reach me at [anjishnukar02@gmail.com](mailto:anjishnukar02@gmail.com)
-- 📄 Check out my resume at [MyResume](http://drive.google.com/file/d/1IyUMPquz3qyQ7RYfdsUf9Famgo03XlTY/view?usp=sharing)
-- 🌱 I'm currently learning high performance computing in CUDA 
-- 💬 Ask me about RISC-V, VLSI and high perfomance computing
+- 📍 i'm from bengaluru, KA
+- 📧 reach me at [anjishnukar02@gmail.com](mailto:anjishnukar02@gmail.com)
+- 📄 check out my [resume]()
+- 🌱 i'm currently learning high performance computing in CUDA 
+- 💬 ask me about RISC-V, VLSI and high perfomance computing
 
-## What I Work On
+## Core Technologies
 
-- Personal projects and experiments.
-- Small utilities and automation tools.
-- Web and full-stack development concepts.
 
-## Development Frameworks I Have Worked With
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
+#### Hardware Technologies 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><picture>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino," alt="C" />
 </picture></a> &nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+
+#### Development Frameworks 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
 </picture></a> &nbsp;
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/go-colored.svg" alt="Go" />
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
 </picture></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
