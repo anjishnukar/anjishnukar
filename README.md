@@ -1,6 +1,6 @@
-<h1 align="center">hello there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> i'm anjishnu kar</h1>
+<h1 align="center">hello there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> i'm <a href="https://anjishnukarportfolio.vercel.app/">anjishnu kar</a></h1>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> EEE Student at NIT Durgapur</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> EEE Student at NIT Durgapur</h3>
 <p align="center">Silicon Engineering | VLSI Enthusiast | Parallel and High Performance Computing | Fullstack Developer</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
@@ -10,12 +10,12 @@
 welcome to my github. i'm a hardware enthusiast working on creative and practical projects in the intersection of hardware and software.
 
 ## About Me
-
 - 📍 i'm from bengaluru, KA
-- 📧 reach me at [anjishnukar02@gmail.com](mailto:anjishnukar02@gmail.com)
-- 📄 check out my [resume]()
-- 🌱 i'm currently learning high performance computing in CUDA 
-- 💬 ask me about RISC-V, VLSI and high perfomance computing
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" /> check out my [portfolio](https://anjishnukarportfolio.vercel.app/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> reach me at [anjishnukar02@gmail.com](mailto:anjishnukar02@gmail.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> check out my [resume](https://drive.google.com/file/d/1Q7RnVNhMypOrD90FzOEkVfEYvXYprfiI/view)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" /> i'm currently learning high performance computing in CUDA 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> ask me about RISC-V, VLSI and high perfomance computing
 
 ## Core Technologies
 
